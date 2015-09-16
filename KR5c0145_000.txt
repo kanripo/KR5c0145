@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:48:19.653362
+#+TITLE: 通玄真經
+#+PROPERTY: DZID  DZ0749
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，16—821 七卷 洞神部玉訣類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
